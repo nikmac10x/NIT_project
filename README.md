@@ -1,2 +1,1 @@
-# NIT_project
-# forked this project
+# eto moi pull request
